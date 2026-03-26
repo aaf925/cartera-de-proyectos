@@ -29,7 +29,7 @@ python -m venv venv
 .\venv\Scripts\activate
 
 # Instalar librerías
-pip install streamlit pandas requests
+pip install -r requirements.txt
 ```
 
 ### 4. Ejecutar
@@ -65,7 +65,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Instalar librerías
-pip install streamlit pandas requests
+pip install -r requirements.txt
 ```
 
 ### 4. Ejecutar
