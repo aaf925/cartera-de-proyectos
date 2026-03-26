@@ -1,0 +1,19 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Excluida la versión sin IA por petición del usuario
+version_sin_ia/
+
+# OS files
+.DS_Store
+Thumbs.db
